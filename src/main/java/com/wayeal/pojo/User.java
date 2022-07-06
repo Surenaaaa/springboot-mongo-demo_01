@@ -9,7 +9,7 @@ import lombok.Data;
 
 @Data
 public class User {
-//qqqqqqqqq
+
     private Integer id;
     private String name;
     private Integer age;
